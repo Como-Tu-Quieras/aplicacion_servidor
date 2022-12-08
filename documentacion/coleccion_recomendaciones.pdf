@@ -1,0 +1,34 @@
+[
+ {
+  "resena": "resena 1",
+  "puntuacion": 17,
+  "feche_de_creacion": 1669997757,
+  "categoria": [],
+  "id_autores": "cedea71fcda91bc9e309f88c",
+  "id": "1"
+ },
+ {
+  "resena": "resena 2",
+  "puntuacion": 75,
+  "feche_de_creacion": 1669997697,
+  "categoria": [],
+  "id_autores": "01cd71ea9cbd3085259fdadb",
+  "id": "2"
+ },
+ {
+  "resena": "resena 3",
+  "puntuacion": 79,
+  "feche_de_creacion": 1669997637,
+  "categoria": [],
+  "id_autores": "0eddeac6bbeee541dcd71583",
+  "id": "3"
+ },
+ {
+  "resena": "resena 4",
+  "puntuacion": 48,
+  "feche_de_creacion": 1669997577,
+  "categoria": [],
+  "id_autores": "1f13d9bb6f9a2fdcfccd2cbb",
+  "id": "4"
+ }
+]

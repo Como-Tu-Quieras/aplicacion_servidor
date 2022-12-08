@@ -1,0 +1,42 @@
+[
+ {
+  "isbn": 5,
+  "categorias": "categorias 1",
+  "fecha_publicacion": "2032-11-22T05:06:14.981Z",
+  "titulo": "titulo 1",
+  "tomo": 86,
+  "n_paginas": 63,
+  "descripcion": "descripcion 1",
+  "id": "1"
+ },
+ {
+  "isbn": 16,
+  "categorias": "categorias 2",
+  "fecha_publicacion": "2011-08-30T11:58:34.041Z",
+  "titulo": "titulo 2",
+  "tomo": 57,
+  "n_paginas": 1,
+  "descripcion": "descripcion 2",
+  "id": "2"
+ },
+ {
+  "isbn": 27,
+  "categorias": "categorias 3",
+  "fecha_publicacion": "2092-11-18T16:09:50.924Z",
+  "titulo": "titulo 3",
+  "tomo": 62,
+  "n_paginas": 88,
+  "descripcion": "descripcion 3",
+  "id": "3"
+ },
+ {
+  "isbn": 32,
+  "categorias": "categorias 4",
+  "fecha_publicacion": "2024-02-29T19:48:30.276Z",
+  "titulo": "titulo 4",
+  "tomo": 54,
+  "n_paginas": 66,
+  "descripcion": "descripcion 4",
+  "id": "4"
+ }
+]
